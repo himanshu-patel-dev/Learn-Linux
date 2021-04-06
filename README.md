@@ -15,3 +15,5 @@ Book: **The Linux Command Line**
 - Chapter 3. [Exploring the system](The-Linux-Command-Line/Chapter_3/ch3.md)
 
 - Chapter 4. [Manpulating files and directories](The-Linux-Command-Line/Chapter_4/ch4.md)
+
+- Chapter 5. [Working with Commands](The-Linux-Command-Line/Chapter_5/ch5.md)
