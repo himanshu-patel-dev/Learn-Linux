@@ -17,3 +17,5 @@ Book: **The Linux Command Line**
 - Chapter 4. [Manpulating files and directories](The-Linux-Command-Line/Chapter_4/ch4.md)
 
 - Chapter 5. [Working with Commands](The-Linux-Command-Line/Chapter_5/ch5.md)
+
+- Chapter 6. [Redirection](The-Linux-Command-Line/Chapter_6/ch06.md)
