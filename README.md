@@ -19,3 +19,7 @@ Book: **The Linux Command Line**
 - Chapter 5. [Working with Commands](The-Linux-Command-Line/Chapter_5/ch5.md)
 
 - Chapter 6. [Redirection](The-Linux-Command-Line/Chapter_6/ch06.md)
+
+- Chapter 7. [Shell](The-Linux-Command-Line/Chapter_7/ch07.md)
+
+- Chapter 8. [Advanced Keyboard Tricks](The-Linux-Command-Line/Chapter_8/ch08.md)
