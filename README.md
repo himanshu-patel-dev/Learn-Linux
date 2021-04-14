@@ -23,3 +23,5 @@ Book: **The Linux Command Line**
 - Chapter 7. [Shell](The-Linux-Command-Line/Chapter_7/ch07.md)
 
 - Chapter 8. [Advanced Keyboard Tricks](The-Linux-Command-Line/Chapter_8/ch08.md)
+
+- Chapter 9. [Permissions](The-Linux-Command-Line/Chapter_9/ch09.md)
