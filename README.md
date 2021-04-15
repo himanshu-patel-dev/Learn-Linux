@@ -25,3 +25,5 @@ Book: **The Linux Command Line**
 - Chapter 8. [Advanced Keyboard Tricks](The-Linux-Command-Line/Chapter_8/ch08.md)
 
 - Chapter 9. [Permissions](The-Linux-Command-Line/Chapter_9/ch09.md)
+
+- Chapter 10. [Processes](The-Linux-Command-Line/Chapter_10/ch10.md)
