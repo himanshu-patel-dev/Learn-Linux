@@ -27,3 +27,5 @@ Book: **The Linux Command Line**
 - Chapter 9. [Permissions](The-Linux-Command-Line/Chapter_9/ch09.md)
 
 - Chapter 10. [Processes](The-Linux-Command-Line/Chapter_10/ch10.md)
+
+- Chapter 11. [The Environment](The-Linux-Command-Line/Chapter_11/ch11.md)
