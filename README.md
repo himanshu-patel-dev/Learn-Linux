@@ -32,4 +32,10 @@ Book: **The Linux Command Line**
 
 - Chapter 12. [VI](The-Linux-Command-Line/Chapter_12/ch12.md)
 
+- Chapter 13. [Customizing Prompt - Yet To Do]()
+
 - Chapter 14. [Package Management](The-Linux-Command-Line/Chapter_14/ch14.md)
+
+- Chapter 15. [Storage Media - Yet To Do]()
+
+- Chapter 16. [Networking](The-Linux-Command-Line/Chapter_16/ch16.md)
