@@ -29,3 +29,7 @@ Book: **The Linux Command Line**
 - Chapter 10. [Processes](The-Linux-Command-Line/Chapter_10/ch10.md)
 
 - Chapter 11. [The Environment](The-Linux-Command-Line/Chapter_11/ch11.md)
+
+- Chapter 12. [VI](The-Linux-Command-Line/Chapter_12/ch12.md)
+
+- Chapter 14. [Package Management](The-Linux-Command-Line/Chapter_14/ch14.md)
