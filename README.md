@@ -39,3 +39,5 @@ Book: **The Linux Command Line**
 - Chapter 15. [Storage Media - Yet To Do]()
 
 - Chapter 16. [Networking](The-Linux-Command-Line/Chapter_16/ch16.md)
+
+- Chapter 17. [Searching For Files](The-Linux-Command-Line/Chapter_17/ch17.md)
