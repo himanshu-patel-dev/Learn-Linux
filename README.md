@@ -41,3 +41,9 @@ Book: **The Linux Command Line**
 - Chapter 16. [Networking](The-Linux-Command-Line/Chapter_16/ch16.md)
 
 - Chapter 17. [Searching For Files](The-Linux-Command-Line/Chapter_17/ch17.md)
+
+- Chapter 19. [Regular Expression](The-Linux-Command-Line/Chapter_19/ch19.md)
+
+- Chapter 20. [Text Processing](The-Linux-Command-Line/Chapter_20/ch20.md)
+
+- Chapter 24. [First Script](The-Linux-Command-Line/Chapter_24/ch24.md)
