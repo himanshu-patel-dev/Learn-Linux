@@ -42,8 +42,16 @@ Book: **The Linux Command Line**
 
 - Chapter 17. [Searching For Files](The-Linux-Command-Line/Chapter_17/ch17.md)
 
+- Chapter 18. [Archiving and Backup - Yet To Do]()
+
 - Chapter 19. [Regular Expression](The-Linux-Command-Line/Chapter_19/ch19.md)
 
 - Chapter 20. [Text Processing](The-Linux-Command-Line/Chapter_20/ch20.md)
+
+- Chapter 21. [Formatting Output - Yet To Do]()
+
+- Chapter 22. [Printing - Yet To Do]()
+
+- Chapter 23. [Compiling Programs - Yet To Do]()
 
 - Chapter 24. [First Script](The-Linux-Command-Line/Chapter_24/ch24.md)
