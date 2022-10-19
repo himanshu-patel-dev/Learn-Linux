@@ -46,7 +46,7 @@ Book: **The Linux Command Line**
 
 - Chapter 19. [Regular Expression](The-Linux-Command-Line/Chapter_19/ch19.md)
 
-- Chapter 20. [Text Processing](The-Linux-Command-Line/Chapter_20/ch20.md)
+- Chapter 20. [Text Processing - Yet To Do](The-Linux-Command-Line/Chapter_20/ch20.md)
 
 - Chapter 21. [Formatting Output - Yet To Do]()
 
