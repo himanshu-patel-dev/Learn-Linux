@@ -55,3 +55,5 @@ Book: **The Linux Command Line**
 - Chapter 23. [Compiling Programs - Yet To Do]()
 
 - Chapter 24. [First Script](The-Linux-Command-Line/Chapter_24/ch24.md)
+
+- Chapter 25. [Shell Project](The-Linux-Command-Line/Chapter_25/ch25.md)
