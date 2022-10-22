@@ -61,3 +61,5 @@ Book: **The Linux Command Line**
 - Chapter 26. [Shell Functions](The-Linux-Command-Line/Chapter_26/ch26.md)
 
 - Chapter 27. [Flow Control](The-Linux-Command-Line/Chapter_27/ch27.md)
+
+- Chapter 28. [Read Standard Input - Keyboard](The-Linux-Command-Line/Chapter_28/ch28.md)
