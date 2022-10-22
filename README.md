@@ -59,3 +59,5 @@ Book: **The Linux Command Line**
 - Chapter 25. [Shell Project](The-Linux-Command-Line/Chapter_25/ch25.md)
 
 - Chapter 26. [Shell Functions](The-Linux-Command-Line/Chapter_26/ch26.md)
+
+- Chapter 27. [Flow Control](The-Linux-Command-Line/Chapter_27/ch27.md)
