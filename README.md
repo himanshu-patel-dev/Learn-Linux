@@ -67,3 +67,5 @@ Book: **The Linux Command Line**
 - Chapter 29. [Looping and Flow Control](The-Linux-Command-Line/Chapter_29/ch29.md)
 
 - Chapter 30. [Troubleshooting](The-Linux-Command-Line/Chapter_30/ch30.md)
+
+- Chapter 31. [Flow Control](The-Linux-Command-Line/Chapter_31/ch31.md)
